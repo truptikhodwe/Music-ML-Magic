@@ -1,2 +1,2 @@
 # Music-ML-Magic
-A comprehensive music analysis system that not only classifies music into different genres but also predicts the emotional content of the music.
+A music analysis system that classifies music into different genres, making use of the GTZAN dataset.
